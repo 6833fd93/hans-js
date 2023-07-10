@@ -1,0 +1,29 @@
+{
+  "name": "hans-js",
+  "version": "0.6.0",
+  "description": "Personal Javascript Authoring Platform",
+  "main": "hans.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node hans.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/6833fd93/hans-js.git"
+  },
+  "keywords": [
+    "AI",
+    "Authoring"
+  ],
+  "author": "LNSY",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/6833fd93/hans-js/issues"
+  },
+  "homepage": "https://github.com/6833fd93/hans-js#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "https-pem": "^3.0.0"
+  }
+}
